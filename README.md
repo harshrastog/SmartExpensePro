@@ -1,4 +1,4 @@
-# SmartExpensePro
+# Smart Expense Pro
 
 A simple *web-based expense tracker* built with *HTML, CSS, and JavaScript*.  
 Track daily expenses, see total spending, and manage your budget.
