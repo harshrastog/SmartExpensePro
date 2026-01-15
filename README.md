@@ -1,18 +1,19 @@
- Smart Attendance Tracker
+# SmartExpensePro
 
-A simple web-based attendance calculator built using *HTML, CSS, and JavaScript*.  
-Enter classes and attendance, and see real-time percentage results.
+A simple *web-based expense tracker* built with *HTML, CSS, and JavaScript*.  
+Track daily expenses, see total spending, and manage your budget.
 
 ---
 
 ## Features
 
-- Instant attendance calculation  
-- Clean and responsive UI  
-- Optional: Reset button, low-attendance warning  
+- Add and delete expenses  
+- Category-wise total  
+- Real-time calculation  
+- Data saved in browser (LocalStorage)  
 
 ---
 
 ## Tech Stack
 
-- HTML | CSS | JavaScript
+HTML | CSS | JavaScript
